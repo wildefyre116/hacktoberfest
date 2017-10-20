@@ -1903,3 +1903,8 @@ Noida
 - Place: Chattanooga, Tennesse, USA
 - Bio: Full Stack hobbyiest, Hacking enthusiast, Fluent in several languages
 - GitHub: [Mateo Pool](https://github.com/IAmMyself)
+
+#### Name: [Amanda Cochran](GitHub Link)
+- Place: Oshkosh, Wisconsin, USA
+- Bio: Perpetual student of life, Jr Dev
+- GitHub: [Wildefyre116](https://github.com/wildefyre116)
